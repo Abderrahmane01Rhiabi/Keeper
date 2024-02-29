@@ -1,0 +1,60 @@
+{
+<<<<<<< HEAD
+  "name": "using-pre-built-react-components-completed",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.6.1",
+    "@material-ui/icons": "4.5.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.2.0",
+    "uuid": "3.3.3"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+=======
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.6.0"
+>>>>>>> db016bf29f0b0678c3305db7f2ea5b7bdd59a868
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+<<<<<<< HEAD
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
+=======
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
+>>>>>>> db016bf29f0b0678c3305db7f2ea5b7bdd59a868
